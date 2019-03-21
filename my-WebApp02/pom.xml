@@ -38,12 +38,12 @@
                           <!-- 指明使用的tomcat服务器版本 -->
                         <containerId>tomcat7x</containerId>
                         <!--指明tomcat服务器的安装目录 -->
-                        <home>E:\tomcat</home>
+                        <home>D:\soft</home>
                     </container>
                     <configuration>
                         <type>existing</type>
                         <!--指明tomcat服务器的安装目录 -->
-                        <home>E:\tomcat</home>
+                        <home>D:\soft</home>
                     </configuration>
                 </configuration>
                 <executions>  
